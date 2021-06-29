@@ -1,7 +1,7 @@
 import React from 'react';
 import './Calc.css';
 
-
+  
 class Calc extends React.Component {
     constructor() {
       super();
