@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hull-speed/static/css/main.4909377e.chunk.css",
+    "main.css": "/hull-speed/static/css/main.06ed7bd2.chunk.css",
     "main.js": "/hull-speed/static/js/main.07aa26f0.chunk.js",
     "main.js.map": "/hull-speed/static/js/main.07aa26f0.chunk.js.map",
     "runtime-main.js": "/hull-speed/static/js/runtime-main.67f90edc.js",
@@ -10,13 +10,13 @@
     "static/js/3.dc2f8ba2.chunk.js": "/hull-speed/static/js/3.dc2f8ba2.chunk.js",
     "static/js/3.dc2f8ba2.chunk.js.map": "/hull-speed/static/js/3.dc2f8ba2.chunk.js.map",
     "index.html": "/hull-speed/index.html",
-    "static/css/main.4909377e.chunk.css.map": "/hull-speed/static/css/main.4909377e.chunk.css.map",
+    "static/css/main.06ed7bd2.chunk.css.map": "/hull-speed/static/css/main.06ed7bd2.chunk.css.map",
     "static/js/2.43d1f3a6.chunk.js.LICENSE.txt": "/hull-speed/static/js/2.43d1f3a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.67f90edc.js",
     "static/js/2.43d1f3a6.chunk.js",
-    "static/css/main.4909377e.chunk.css",
+    "static/css/main.06ed7bd2.chunk.css",
     "static/js/main.07aa26f0.chunk.js"
   ]
 }
