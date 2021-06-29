@@ -3,7 +3,7 @@
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: darkblue;
   border: darkblue solid 5px;
-  background: linear-gradient(180deg, rgb(210, 240, 252), rgb(4, 102, 248));
+  background: linear-gradient(0deg, rgb(210, 240, 252), rgb(4, 102, 248));
 }
 
 input {
